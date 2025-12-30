@@ -1,0 +1,4 @@
+(^|\.)googleadservices\.com$
+(^|\.)doubleclick\.net$
+(^|\.)googlesyndication\.com$
+(^|\.)pagead2\.googlesyndication\.com$
