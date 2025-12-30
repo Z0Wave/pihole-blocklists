@@ -1,3 +1,0 @@
-youtubeads.googleapis.com
-pagead2.googlesyndication.com
-video-stats.l.google.com

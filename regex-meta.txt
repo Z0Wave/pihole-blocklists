@@ -1,3 +1,0 @@
-(^|\.)facebook\.com$
-(^|\.)facebookads\.com$
-(^|\.)instagram\.com$
